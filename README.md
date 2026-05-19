@@ -1,7 +1,7 @@
 # careerlaunch
 A responsive job tracking web application that helps users manage job applications, interview stages, and outcomes. Built using HTML, CSS, and JavaScript with localStorage for persistent data storage.
 
-📌 About the project
+📌 About the project:
 CareerLaunch is a simple job tracking web app I built to help organize job applications in one place.
 It lets you add jobs you’ve applied to, track their status, and quickly see where you stand in your job search.
 It’s built with just HTML, CSS, and JavaScript, and uses localStorage so data doesn’t disappear when you refresh the page.
@@ -25,7 +25,7 @@ It’s built with just HTML, CSS, and JavaScript, and uses localStorage so data 
 
 🌐 Live link
 
-👉 https://yourusername.github.io/careerlaunch/
+👉 https://lucyannnjeri.github.io/careerlaunch/
 
 📁 Folder structure
 careerlaunch/
