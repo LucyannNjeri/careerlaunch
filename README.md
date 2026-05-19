@@ -35,6 +35,8 @@ careerlaunch/
 ├── index.html
 ├── style.css
 └── script.js
+└── assets/
+    └── screenshots/
 
 🧠 What I learned
     - Working with JavaScript arrays and objects
