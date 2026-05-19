@@ -1,0 +1,55 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
+  <title>CareerLaunch</title>
+  <link rel="stylesheet" href="style.css" />
+</head>
+<body>
+
+  <div class="container">
+    <h1>CareerLaunch Job Tracker</h1>
+    <p class="subtitle">Track your job applications, interviews, and career progress in one place.</p>
+
+    <div class="stats">
+      <div class="card">
+        <h3 id="totalApps">0</h3>
+        <p>Total Applications</p>
+      </div>
+
+      <div class="card">
+        <h3 id="interviews">0</h3>
+        <p>Interviews</p>
+      </div>
+
+      <div class="card">
+        <h3 id="offers">0</h3>
+        <p>Offers</p>
+      </div>
+    </div>
+
+    <form id="jobForm">
+      <input type="text" id="company" placeholder="Company Name" required />
+      <input type="text" id="role" placeholder="Job Title" required />
+      <input type="date" id="date" required />
+
+      <select id="status">
+        <option value="Applied">Applied</option>
+        <option value="Interview">Interview</option>
+        <option value="Rejected">Rejected</option>
+        <option value="Offer">Offer</option>
+      </select>
+
+      <button type="submit">Add Application</button>
+    </form>
+
+    <input type="text" id="search" placeholder="Search company..." />
+
+    <div id="jobList"></div>
+    <p id="emptyState">No applications yet. Start by adding one.</p>
+  </div>
+
+  <script src="script.js"></script>
+</body>
+</html>
