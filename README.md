@@ -6,19 +6,19 @@ It’s built with just HTML, CSS, and JavaScript, and uses localStorage so data 
 
 ✨ What it does
    
--Add job applications (company, role, date, status)
--View all applications in a clean dashboard
--Delete applications when needed
--Track status (Applied, Interview, Offer, Rejected)
--Search by company name
--Simple stats (total, interviews, offers)
--Shows a message when there are no applications yet
+- Add job applications (company, role, date, status)
+- View all applications in a clean dashboard
+- Delete applications when needed
+- Track status (Applied, Interview, Offer, Rejected)
+- Search by company name
+- Simple stats (total, interviews, offers)
+- Shows a message when there are no applications yet
 
 🛠️ Built with
--HTML
--CSS
--JavaScript
--localStorage
+- HTML
+- CSS
+- JavaScript
+- localStorage
 
 📷 Preview
 ### Dashboard
@@ -58,8 +58,8 @@ careerlaunch/
 - Possibly connect it to a backend later
 
 👩‍💻 Author
--Lucy Ann Njeri
--Frontend Developer / UI-UX Designer
+- Lucy Ann Njeri
+- Frontend Developer / UI-UX Designer
 
 ⭐ Note
 
