@@ -19,9 +19,15 @@ It’s built with just HTML, CSS, and JavaScript, and uses localStorage so data 
     -CSS
     -JavaScript
     -localStorage
-📷 Preview
 
-(Add screenshots here once you’re done polishing UI)
+📷 Preview
+### Dashboard
+![Dashboard](assets/screenshots/dashboard.png)
+### Application Feature
+![Application](assets/screenshots/application.png)
+### Empty State
+![Empty State](assets/screenshots/empty.png)
+
 
 🌐 Live link
 
